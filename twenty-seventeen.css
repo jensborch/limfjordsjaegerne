@@ -1,0 +1,27 @@
+.site-content {
+	background-color: #4B5320
+}
+.site-info { display: none; }
+.single-tribe_events .tribe-events-event-meta {
+	background: #2f3f26;
+}
+#tribe-bar-collapse-toggle {
+	background: #2f3f26;
+}
+#tribe-bar-form {
+	background: #2f3f26;
+}
+.tribe-bar-views-inner {
+	background: #666666;
+}
+#tribe-bar-views .tribe-bar-views-list .tribe-bar-views-option a {
+	background: #666666;
+	color: black;
+}
+#tribe-bar-views .tribe-bar-views-list .tribe-bar-views-option a:hover {
+	background: #dddddd;
+	color: black;
+}
+body.colors-dark, .colors-dark button, .colors-dark input, .colors-dark select, .colors-dark textarea, .colors-dark h3, .colors-dark h4, .colors-dark h6, .colors-dark label, .colors-dark .entry-title a, .colors-dark.twentyseventeen-front-page .panel-content .recent-posts article, .colors-dark .entry-footer .cat-links a, .colors-dark .entry-footer .tags-links a, .colors-dark .format-quote blockquote, .colors-dark .nav-title, .colors-dark .comment-body {
+    color: #080707;
+}
