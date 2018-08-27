@@ -505,7 +505,7 @@ body.colors-dark, .colors-dark button, .colors-dark input, .colors-dark select, 
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost:8000/wp-content/uploads/2018/08/lim_logo.png]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/jensborch/limfjordsjaegerne/master/lim_logo.png]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2018/08/lim_logo.png]]></wp:meta_value>
@@ -544,7 +544,7 @@ body.colors-dark, .colors-dark button, .colors-dark input, .colors-dark select, 
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost:8000/wp-content/uploads/2018/08/lim_heatmap_small.png]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/jensborch/limfjordsjaegerne/master/lim_heatmap_small.png]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2018/08/lim_heatmap_small.png]]></wp:meta_value>
@@ -669,7 +669,7 @@ body.colors-dark, .colors-dark button, .colors-dark input, .colors-dark select, 
 		<link>http://localhost:8000/?attachment_id=174</link>
 		<pubDate>Sun, 26 Aug 2018 17:46:24 +0000</pubDate>
 		<dc:creator><![CDATA[jens]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:8000/wp-content/uploads/2018/08/egense_jagt_0.png</guid>
+		<guid isPermaLink="false">http://localhost:8000/wp-content/uploads/2018/08/jagt_egense.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[Jagt arealer i Egense]]></content:encoded>
 		<excerpt:encoded><![CDATA[Egense jagt arealer]]></excerpt:encoded>
@@ -678,21 +678,21 @@ body.colors-dark, .colors-dark button, .colors-dark input, .colors-dark select, 
 		<wp:post_date_gmt><![CDATA[2018-08-26 17:46:24]]></wp:post_date_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[egense_jagt_0]]></wp:post_name>
+		<wp:post_name><![CDATA[jagt_egense]]></wp:post_name>
 		<wp:status><![CDATA[inherit]]></wp:status>
 		<wp:post_parent>89</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost:8000/wp-content/uploads/2018/08/egense_jagt_0.png]]></wp:attachment_url>
+		<wp:is_sticky>0</wp:is_sticky>-
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/jensborch/limfjordsjaegerne/master/jagt_egense.png]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2018/08/egense_jagt_0.png]]></wp:meta_value>
+			<wp:meta_value><![CDATA[2018/08/jagt_egense.png]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:600;s:6:"height";i:369;s:4:"file";s:25:"2018/08/egense_jagt_0.png";s:5:"sizes";a:3:{s:9:"thumbnail";a:4:{s:4:"file";s:25:"egense_jagt_0-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";}s:6:"medium";a:4:{s:4:"file";s:25:"egense_jagt_0-300x185.png";s:5:"width";i:300;s:6:"height";i:185;s:9:"mime-type";s:9:"image/png";}s:32:"twentyseventeen-thumbnail-avatar";a:4:{s:4:"file";s:25:"egense_jagt_0-100x100.png";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:600;s:6:"height";i:369;s:4:"file";s:25:"2018/08/jagt_egense.png";s:5:"sizes";a:3:{s:9:"thumbnail";a:4:{s:4:"file";s:25:"jagt_egense-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";}s:6:"medium";a:4:{s:4:"file";s:25:"jagt_egense-300x185.png";s:5:"width";i:300;s:6:"height";i:185;s:9:"mime-type";s:9:"image/png";}s:32:"twentyseventeen-thumbnail-avatar";a:4:{s:4:"file";s:25:"jagt_egense-100x100.png";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attachment_image_alt]]></wp:meta_key>
@@ -708,7 +708,7 @@ body.colors-dark, .colors-dark button, .colors-dark input, .colors-dark select, 
 		<link>http://localhost:8000/?attachment_id=175</link>
 		<pubDate>Sun, 26 Aug 2018 17:46:25 +0000</pubDate>
 		<dc:creator><![CDATA[jens]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:8000/wp-content/uploads/2018/08/gjoel_0.png</guid>
+		<guid isPermaLink="false">http://localhost:8000/wp-content/uploads/2018/08/jagt_gjoel.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[Jagt arealer på Gjoel]]></content:encoded>
 		<excerpt:encoded><![CDATA[Gjoel jagt arealer]]></excerpt:encoded>
@@ -717,21 +717,21 @@ body.colors-dark, .colors-dark button, .colors-dark input, .colors-dark select, 
 		<wp:post_date_gmt><![CDATA[2018-08-26 17:46:25]]></wp:post_date_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[gjoel_0]]></wp:post_name>
+		<wp:post_name><![CDATA[jagt_gjoel]]></wp:post_name>
 		<wp:status><![CDATA[inherit]]></wp:status>
 		<wp:post_parent>89</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost:8000/wp-content/uploads/2018/08/gjoel_0.png]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/jensborch/limfjordsjaegerne/master/jagt_gjoel.png]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2018/08/gjoel_0.png]]></wp:meta_value>
+			<wp:meta_value><![CDATA[2018/08/jagt_gjoel.png]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:600;s:6:"height";i:369;s:4:"file";s:19:"2018/08/gjoel_0.png";s:5:"sizes";a:3:{s:9:"thumbnail";a:4:{s:4:"file";s:19:"gjoel_0-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";}s:6:"medium";a:4:{s:4:"file";s:19:"gjoel_0-300x185.png";s:5:"width";i:300;s:6:"height";i:185;s:9:"mime-type";s:9:"image/png";}s:32:"twentyseventeen-thumbnail-avatar";a:4:{s:4:"file";s:19:"gjoel_0-100x100.png";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:600;s:6:"height";i:369;s:4:"file";s:19:"2018/08/jagt_gjoel.png";s:5:"sizes";a:3:{s:9:"thumbnail";a:4:{s:4:"file";s:19:"jagt_gjoel-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";}s:6:"medium";a:4:{s:4:"file";s:19:"jagt_gjoel-300x185.png";s:5:"width";i:300;s:6:"height";i:185;s:9:"mime-type";s:9:"image/png";}s:32:"twentyseventeen-thumbnail-avatar";a:4:{s:4:"file";s:19:"jagt_gjoel-100x100.png";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attachment_image_alt]]></wp:meta_key>
@@ -759,7 +759,7 @@ body.colors-dark, .colors-dark button, .colors-dark input, .colors-dark select, 
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost:8000/wp-content/uploads/2018/08/pram_kort.png]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/jensborch/limfjordsjaegerne/master/pram_kort.png]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2018/08/pram_kort.png]]></wp:meta_value>
@@ -778,7 +778,7 @@ body.colors-dark, .colors-dark button, .colors-dark input, .colors-dark select, 
 		<link>http://localhost:8000/?attachment_id=177</link>
 		<pubDate>Sun, 26 Aug 2018 17:46:42 +0000</pubDate>
 		<dc:creator><![CDATA[jens]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:8000/wp-content/uploads/2018/08/restrup_enge_1_copy.png</guid>
+		<guid isPermaLink="false">http://localhost:8000/wp-content/uploads/2018/08/jagt_restrup_enge.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[Jagt arealer i Restrup Enge]]></content:encoded>
 		<excerpt:encoded><![CDATA[Restrup Enge jagt arealer]]></excerpt:encoded>
@@ -787,21 +787,21 @@ body.colors-dark, .colors-dark button, .colors-dark input, .colors-dark select, 
 		<wp:post_date_gmt><![CDATA[2018-08-26 17:46:42]]></wp:post_date_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[restrup_enge_1_copy]]></wp:post_name>
+		<wp:post_name><![CDATA[jagt_restrup_enge]]></wp:post_name>
 		<wp:status><![CDATA[inherit]]></wp:status>
 		<wp:post_parent>89</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost:8000/wp-content/uploads/2018/08/restrup_enge_1_copy.png]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/jensborch/limfjordsjaegerne/master/jagt_restrup_enge.png]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2018/08/restrup_enge_1_copy.png]]></wp:meta_value>
+			<wp:meta_value><![CDATA[2018/08/jagt_restrup_enge.png]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:600;s:6:"height";i:369;s:4:"file";s:31:"2018/08/restrup_enge_1_copy.png";s:5:"sizes";a:3:{s:9:"thumbnail";a:4:{s:4:"file";s:31:"restrup_enge_1_copy-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";}s:6:"medium";a:4:{s:4:"file";s:31:"restrup_enge_1_copy-300x185.png";s:5:"width";i:300;s:6:"height";i:185;s:9:"mime-type";s:9:"image/png";}s:32:"twentyseventeen-thumbnail-avatar";a:4:{s:4:"file";s:31:"restrup_enge_1_copy-100x100.png";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:600;s:6:"height";i:369;s:4:"file";s:31:"2018/08/jagt_restrup_enge.png";s:5:"sizes";a:3:{s:9:"thumbnail";a:4:{s:4:"file";s:31:"jagt_restrup_enge-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";}s:6:"medium";a:4:{s:4:"file";s:31:"jagt_restrup_enge-300x185.png";s:5:"width";i:300;s:6:"height";i:185;s:9:"mime-type";s:9:"image/png";}s:32:"twentyseventeen-thumbnail-avatar";a:4:{s:4:"file";s:31:"jagt_restrup_enge-100x100.png";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attachment_image_alt]]></wp:meta_key>
@@ -813,7 +813,7 @@ body.colors-dark, .colors-dark button, .colors-dark input, .colors-dark select, 
 		<link>http://localhost:8000/?attachment_id=178</link>
 		<pubDate>Sun, 26 Aug 2018 17:46:42 +0000</pubDate>
 		<dc:creator><![CDATA[jens]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:8000/wp-content/uploads/2018/08/restrupskov_0.jpg</guid>
+		<guid isPermaLink="false">http://localhost:8000/wp-content/uploads/2018/08/jagt_restrupskov.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[Jagt arealer i Restrupskov]]></content:encoded>
 		<excerpt:encoded><![CDATA[Restrupskov jagt arealer]]></excerpt:encoded>
@@ -822,21 +822,21 @@ body.colors-dark, .colors-dark button, .colors-dark input, .colors-dark select, 
 		<wp:post_date_gmt><![CDATA[2018-08-26 17:46:42]]></wp:post_date_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[restrupskov_0]]></wp:post_name>
+		<wp:post_name><![CDATA[jagt_restrupskov]]></wp:post_name>
 		<wp:status><![CDATA[inherit]]></wp:status>
 		<wp:post_parent>89</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost:8000/wp-content/uploads/2018/08/restrupskov_0.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/jensborch/limfjordsjaegerne/master/jagt_restrupskov.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2018/08/restrupskov_0.jpg]]></wp:meta_value>
+			<wp:meta_value><![CDATA[2018/08/jagt_restrupskov.jpg]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:600;s:6:"height";i:412;s:4:"file";s:25:"2018/08/restrupskov_0.jpg";s:5:"sizes";a:3:{s:9:"thumbnail";a:4:{s:4:"file";s:25:"restrupskov_0-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:25:"restrupskov_0-300x206.jpg";s:5:"width";i:300;s:6:"height";i:206;s:9:"mime-type";s:10:"image/jpeg";}s:32:"twentyseventeen-thumbnail-avatar";a:4:{s:4:"file";s:25:"restrupskov_0-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:600;s:6:"height";i:412;s:4:"file";s:25:"2018/08/jagt_restrupskov.jpg";s:5:"sizes";a:3:{s:9:"thumbnail";a:4:{s:4:"file";s:25:"jagt_restrupskov-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:25:"jagt_restrupskov-300x206.jpg";s:5:"width";i:300;s:6:"height";i:206;s:9:"mime-type";s:10:"image/jpeg";}s:32:"twentyseventeen-thumbnail-avatar";a:4:{s:4:"file";s:25:"jagt_restrupskov-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attachment_image_alt]]></wp:meta_key>
@@ -919,7 +919,7 @@ body.colors-dark, .colors-dark button, .colors-dark input, .colors-dark select, 
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost:8000/wp-content/uploads/2018/08/header.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/jensborch/limfjordsjaegerne/master/header.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2018/08/header.jpg]]></wp:meta_value>
@@ -958,7 +958,7 @@ body.colors-dark, .colors-dark button, .colors-dark input, .colors-dark select, 
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost:8000/wp-content/uploads/2018/08/cropped-header.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/jensborch/limfjordsjaegerne/master/cropped-header.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2018/08/cropped-header.jpg]]></wp:meta_value>
@@ -1418,25 +1418,25 @@ Restrup Enge
 
 Stald Nørholm, Nørholmsvej 196, 9000 Aalborg.
 
-[caption id="attachment_177" align="alignnone" width="600"]<img class="wp-image-177 size-full" src="http://localhost:8000/wp-content/uploads/2018/08/restrup_enge_1_copy.png" alt="Restrup Enge jagt arealer" width="600" height="369" /> Restrup Enge jagt arealer[/caption]
+[caption id="attachment_177" align="alignnone" width="600"]<img class="wp-image-177 size-full" src="http://localhost:8000/wp-content/uploads/2018/08/jagt_restrup_enge.png" alt="Restrup Enge jagt arealer" width="600" height="369" /> Restrup Enge jagt arealer[/caption]
 
 Gjøl
 
 Mødingspladsen på Kytternevej, 9440 Aabybro.
 
-[caption id="attachment_175" align="alignnone" width="600"]<img class="wp-image-175 size-full" src="http://localhost:8000/wp-content/uploads/2018/08/gjoel_0.png" alt="Gjoel jagt arealer" width="600" height="369" /> Gjoel jagt arealer[/caption]
+[caption id="attachment_175" align="alignnone" width="600"]<img class="wp-image-175 size-full" src="http://localhost:8000/wp-content/uploads/2018/08/jagt_gjoel.png" alt="Gjoel jagt arealer" width="600" height="369" /> Gjoel jagt arealer[/caption]
 
 St. Restrup skov
 
 Adgang til stykket via grusvejen fra Restrup Engvej. Eller via grusvejen fra svinget på Nældevej.
 
-[caption id="attachment_178" align="alignnone" width="600"]<img class="size-full wp-image-178" src="http://localhost:8000/wp-content/uploads/2018/08/restrupskov_0.jpg" alt="Restrupskov jagt arealer" width="600" height="412" /> Restrupskov jagt arealer[/caption]
+[caption id="attachment_178" align="alignnone" width="600"]<img class="size-full wp-image-178" src="http://localhost:8000/wp-content/uploads/2018/08/jagt_restrupskov.jpg" alt="Restrupskov jagt arealer" width="600" height="412" /> Restrupskov jagt arealer[/caption]
 
 Egense Fælled
 
 Marken overfor Kystvej 96, 9280 Storvorde
 
-[caption id="attachment_174" align="alignnone" width="600"]<img class="size-full wp-image-174" src="http://localhost:8000/wp-content/uploads/2018/08/egense_jagt_0.png" alt="Egense jagt arealer" width="600" height="369" /> Egense jagt arealer[/caption]]]></content:encoded>
+[caption id="attachment_174" align="alignnone" width="600"]<img class="size-full wp-image-174" src="http://localhost:8000/wp-content/uploads/2018/08/jagt_egense.png" alt="Egense jagt arealer" width="600" height="369" /> Egense jagt arealer[/caption]]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>89</wp:post_id>
 		<wp:post_date><![CDATA[2018-08-22 22:40:40]]></wp:post_date>
