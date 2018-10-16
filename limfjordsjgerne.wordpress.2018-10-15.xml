@@ -266,7 +266,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost:8000/wp-content/uploads/2018/08/lim_logo.png]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/jensborch/limfjordsjaegerne/master/lim_logo.png]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2018/08/lim_logo.png]]></wp:meta_value>
@@ -313,7 +313,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost:8000/wp-content/uploads/2018/08/lim_heatmap_small.png]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/jensborch/limfjordsjaegerne/master/lim_heatmap_small.png]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2018/08/lim_heatmap_small.png]]></wp:meta_value>
@@ -399,7 +399,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost:8000/wp-content/uploads/2018/08/jagt_egense.png]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/jensborch/limfjordsjaegerne/master/jagt_egense.png]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2018/08/jagt_egense.png]]></wp:meta_value>
@@ -446,7 +446,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost:8000/wp-content/uploads/2018/08/jagt_gjoel.png]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/jensborch/limfjordsjaegerne/master/jagt_gjoel.png]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2018/08/jagt_gjoel.png]]></wp:meta_value>
@@ -485,7 +485,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost:8000/wp-content/uploads/2018/08/pram_kort.png]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/jensborch/limfjordsjaegerne/master/pram_kort.png]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2018/08/pram_kort.png]]></wp:meta_value>
@@ -524,7 +524,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost:8000/wp-content/uploads/2018/08/jagt_restrup_enge.png]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/jensborch/limfjordsjaegerne/master/jagt_restrup_enge.png]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2018/08/jagt_restrup_enge.png]]></wp:meta_value>
@@ -563,7 +563,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost:8000/wp-content/uploads/2018/08/jagt_restrupskov.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/jensborch/limfjordsjaegerne/master/jagt_restrupskov.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2018/08/jagt_restrupskov.jpg]]></wp:meta_value>
@@ -602,7 +602,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost:8000/wp-content/uploads/2018/08/header.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/jensborch/limfjordsjaegerne/master/header.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2018/08/header.jpg]]></wp:meta_value>
@@ -649,7 +649,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost:8000/wp-content/uploads/2018/08/cropped-header.jpg]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/jensborch/limfjordsjaegerne/master/cropped-header.jpg]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2018/08/cropped-header.jpg]]></wp:meta_value>
@@ -979,7 +979,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url><![CDATA[http://localhost:8000/wp-content/uploads/2018/10/vedtægter_20180125.pdf]]></wp:attachment_url>
+		<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/jensborch/limfjordsjaegerne/master/vedtægter_20180125.pdf]]></wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2018/10/vedtægter_20180125.pdf]]></wp:meta_value>
