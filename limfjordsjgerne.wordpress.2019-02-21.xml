@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-<!-- generator="WordPress/5.0.3" created="2019-02-21 20:06" -->
+<!-- generator="WordPress/5.0.3" created="2019-02-21 20:45" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Limfjordsjægerne</title>
 	<link>https://www.limfjordsjaegerne.dk</link>
 	<description>Jagt omkring og på Limfjorden</description>
-	<pubDate>Thu, 21 Feb 2019 20:06:59 +0000</pubDate>
+	<pubDate>Thu, 21 Feb 2019 20:45:04 +0000</pubDate>
 	<language>da-DK</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://www.limfjordsjaegerne.dk</wp:base_site_url>
@@ -55,6 +55,30 @@
 		<wp:category_parent><![CDATA[jagt]]></wp:category_parent>
 		<wp:cat_name><![CDATA[Fællesjagt]]></wp:cat_name>
 	</wp:category>
+	<wp:tag>
+		<wp:term_id>8</wp:term_id>
+		<wp:tag_slug><![CDATA[flugtskydning]]></wp:tag_slug>
+		<wp:tag_name><![CDATA[Flugtskydning]]></wp:tag_name>
+	</wp:tag>
+	<wp:tag>
+		<wp:term_id>10</wp:term_id>
+		<wp:tag_slug><![CDATA[hundetraening]]></wp:tag_slug>
+		<wp:tag_name><![CDATA[Hundetræning]]></wp:tag_name>
+	</wp:tag>
+	<wp:term>
+		<wp:term_id><![CDATA[7]]></wp:term_id>
+		<wp:term_taxonomy><![CDATA[tribe_events_cat]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[flugtskydning]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[Flugtskydning]]></wp:term_name>
+	</wp:term>
+	<wp:term>
+		<wp:term_id><![CDATA[9]]></wp:term_id>
+		<wp:term_taxonomy><![CDATA[tribe_events_cat]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[hundetraening]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[Hundetræning]]></wp:term_name>
+	</wp:term>
 	<wp:term><wp:term_id>3</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[social-links-menu]]></wp:term_slug><wp:term_name><![CDATA[Social Links Menu]]></wp:term_name>
 </wp:term>
 	<wp:term><wp:term_id>4</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[top-menu]]></wp:term_slug><wp:term_name><![CDATA[Top Menu]]></wp:term_name>
@@ -1943,21 +1967,21 @@ Limfjordsjægernes vedtægter kan hentes <a href="https://www.limfjordsjaegerne.
 		<dc:creator><![CDATA[jensborch]]></dc:creator>
 		<guid isPermaLink="false">http://localhost:8000/?page_id=220</guid>
 		<description></description>
-		<content:encoded><![CDATA[For at deltage i enhver form for jagt og regulering som foreningen tilbyder, skal der løses jagtkort til jagtarealerne. Hvis øvrige regler gør sig gældende er dette nævnt under de enkelte jagttyper nedenfor.
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>For at deltage i enhver form for jagt og regulering som foreningen tilbyder, skal der løses jagtkort til jagtarealerne. Hvis øvrige regler gør sig gældende er dette nævnt under de enkelte jagttyper nedenfor.</p>
+<!-- /wp:paragraph -->
 
-Det er nedenfor anført om det er tilladt, at medbringe gæster til de enkelte jagttyper. Gæstekort købes for en dag af gangen og gæster skal altid være i følge med et medlem med jagtkort.
+<!-- wp:paragraph -->
+<p>Det er nedenfor anført om det er tilladt, at medbringe gæster til de enkelte jagttyper. Gæstekort købes for en dag af gangen og gæster skal altid være i følge med et medlem med jagtkort.</p>
+<!-- /wp:paragraph -->
 
-De aktuelle priser findes på siden Medlemskab. Medbring altid dokumentation for betalt jagtkort, jagttegn, samt evt. gæstekort og bukkejagt, hvis dette er aktuelt.
-<ol>
- 	<li>Al jagt/regulering skal foregå iht. gældende jagtlov samt reguleringsbekendtgørelse.</li>
- 	<li>Bliver et medlem bekendt med, at der sker ulovligheder eller provokationer overfor lodsejere eller andre, der måtte være berettiget til at færdes på arealerne, har medlemmet pligt til at underrette bestyrelsen herom.</li>
- 	<li>Ethvert medlem skal på forlangende forevise gyldigt jagttegn samt kvittering for at jagtkort til stykkerne er betalt.</li>
- 	<li>Al øvelsesskydning på arealerne er forbudt.</li>
- 	<li>Al kørsel på foreningens arealer er forbudt.</li>
- 	<li>Henlæggelse af skydepram på foreningens arealer kræver registrering ved jagtudvalg.</li>
- 	<li>På dage hvor der afholdes fællesjagt, er al færdsel på stykkerne forbudt indtil efter fællesjagtens afholdelse.</li>
-</ol>
-&nbsp;]]></content:encoded>
+<!-- wp:paragraph -->
+<p>De aktuelle priser findes på siden <a href="https://www.limfjordsjaegerne.dk/medlemskab/">Medlemskab</a>. Medbring altid dokumentation for betalt jagtkort, jagttegn, samt evt. gæstekort og bukkejagt, hvis dette er aktuelt.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list {"ordered":true} -->
+<ol><li>Al jagt/regulering skal foregå iht. gældende jagtlov samt reguleringsbekendtgørelse.</li><li>Bliver et medlem bekendt med, at der sker ulovligheder eller provokationer overfor lodsejere eller andre, der måtte være berettiget til at færdes på arealerne, har medlemmet pligt til at underrette bestyrelsen herom.</li><li>Ethvert medlem skal på forlangende forevise gyldigt jagttegn samt kvittering for at jagtkort til stykkerne er betalt.</li><li>Al øvelsesskydning på arealerne er forbudt.</li><li>Al kørsel på foreningens arealer er forbudt.</li><li>Henlæggelse af skydepram på foreningens arealer kræver registrering ved jagtudvalg.</li><li>På dage hvor der afholdes fællesjagt, er al færdsel på stykkerne forbudt indtil efter fællesjagtens afholdelse.</li></ol>
+<!-- /wp:list -->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>220</wp:post_id>
 		<wp:post_date><![CDATA[2018-10-05 07:05:10]]></wp:post_date>
@@ -2736,135 +2760,6 @@ Ved dagens afsluttende parole takker Søren Stender for god ro og orden på jagt
 		</wp:postmeta>
 	</item>
 	<item>
-		<title>Medlemskab</title>
-		<link>https://www.limfjordsjaegerne.dk/medlemskab/</link>
-		<pubDate>Tue, 19 Feb 2019 19:10:57 +0000</pubDate>
-		<dc:creator><![CDATA[jensborch]]></dc:creator>
-		<guid isPermaLink="false">https://www.limfjordsjaegerne.dk/?page_id=348</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:paragraph -->
-<p>For at blive medlem kontakt kassereren pr.<a href="mailto:kaser@limfjordsjaegerne.dk﻿"> mail</a> og oplys navn, adresse og fødselsår. Ekstraordinære medlemmer skal være medlem af en anden jagtforening under Dansk Jægerforbund.   Medlemsnummeret skal her også oplyses ved indmeldelse. Medlemsnummeret kan findes bag på "JÆGEREN".<br></p>
-<!-- /wp:paragraph -->
-
-<!-- wp:heading -->
-<h2>Kontingenter 2019</h2>
-<!-- /wp:heading -->
-
-<!-- wp:table -->
-<table class="wp-block-table"><tbody><tr><td>Ordinært medlemskab</td><td>928,- kr.</td></tr><tr><td>Seniormedlemskab (født før/i 1948)</td><td>627,- kr.</td></tr><tr><td>Juniormedlemskab (0 - 15 år)</td><td>128,- kr.</td></tr><tr><td>Ungdomsmedlemskab (under 26 år)</td><td>478,- kr</td></tr><tr><td>Husstandsmedlemskab</td><td>550,- kr.</td></tr><tr><td>Ekstraordinært medlemskab (uden "JÆGEREN" )</td><td>226,- kr.</td></tr><tr><td>Støttemedlemskab uden jagttegn</td><td>277,- kr.</td></tr><tr><td>Jagtkort til foreningens arealer</td><td>1250,- kr.</td></tr></tbody></table>
-<!-- /wp:table -->
-
-<!-- wp:paragraph -->
-<p><br></p>
-<!-- /wp:paragraph -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>348</wp:post_id>
-		<wp:post_date><![CDATA[2019-02-19 20:10:57]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2019-02-19 19:10:57]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[medlemskab]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-	</item>
-	<item>
-		<title>Hundetræning 3/3</title>
-		<link>https://www.limfjordsjaegerne.dk/?post_type=tribe_events&#038;p=376</link>
-		<pubDate>Mon, 30 Nov -0001 00:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[jensborch]]></dc:creator>
-		<guid isPermaLink="false">https://www.limfjordsjaegerne.dk/?post_type=tribe_events&#038;p=376</guid>
-		<description></description>
-		<content:encoded><![CDATA[Hundetræning bliver d. 17/2, 3/3, 17/3, 31/3, 14/4.
-
-Mødested ved Lars Nansen. 50kr pr
-gang.]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>376</wp:post_id>
-		<wp:post_date><![CDATA[2019-02-21 21:03:47]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[0000-00-00 00:00:00]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[]]></wp:post_name>
-		<wp:status><![CDATA[draft]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[tribe_events]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_EventOrigin]]></wp:meta_key>
-			<wp:meta_value><![CDATA[events-calendar]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_tribe_modified_fields]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:19:{s:12:"_EventOrigin";d:1550782299;s:10:"_edit_last";d:1550782326;s:10:"post_title";d:1550782670;s:12:"post_content";d:1550782699;s:11:"post_status";d:1550782326;s:17:"_EventShowMapLink";d:1550782699;s:13:"_EventShowMap";d:1550782699;s:15:"_EventStartDate";d:1550782699;s:13:"_EventEndDate";d:1550782699;s:18:"_EventStartDateUTC";d:1550782699;s:16:"_EventEndDateUTC";d:1550782699;s:14:"_EventDuration";d:1550782699;s:20:"_EventCurrencySymbol";d:1550782699;s:22:"_EventCurrencyPosition";d:1550782699;s:10:"_EventCost";d:1550782699;s:9:"_EventURL";d:1550782699;s:14:"_EventTimezone";d:1550782699;s:18:"_EventTimezoneAbbr";d:1550782699;s:13:"_EventVenueID";d:1550782831;}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_EventShowMapLink]]></wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_EventShowMap]]></wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_EventStartDate]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2019-03-03 08:00:00]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_EventEndDate]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2019-03-03 17:00:00]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_EventStartDateUTC]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2019-03-03 07:00:00]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_EventEndDateUTC]]></wp:meta_key>
-			<wp:meta_value><![CDATA[2019-03-03 16:00:00]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_EventDuration]]></wp:meta_key>
-			<wp:meta_value><![CDATA[32400]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_EventCurrencySymbol]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_EventCurrencyPosition]]></wp:meta_key>
-			<wp:meta_value><![CDATA[prefix]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_EventCost]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_EventURL]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_EventTimezone]]></wp:meta_key>
-			<wp:meta_value><![CDATA[Europe/Copenhagen]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_EventTimezoneAbbr]]></wp:meta_key>
-			<wp:meta_value><![CDATA[CET]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_EventVenueID]]></wp:meta_key>
-			<wp:meta_value><![CDATA[378]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
 		<title>Generalforsamling 31/1-2019</title>
 		<link>https://www.limfjordsjaegerne.dk/event/generalforsamling-31-1-2018/</link>
 		<pubDate>Tue, 20 Nov 2018 22:25:45 +0000</pubDate>
@@ -2953,6 +2848,42 @@ gang.]]></content:encoded>
 			<wp:meta_key><![CDATA[_EventTimezoneAbbr]]></wp:meta_key>
 			<wp:meta_value><![CDATA[CET]]></wp:meta_value>
 		</wp:postmeta>
+	</item>
+	<item>
+		<title>Medlemskab</title>
+		<link>https://www.limfjordsjaegerne.dk/medlemskab/</link>
+		<pubDate>Tue, 19 Feb 2019 19:10:57 +0000</pubDate>
+		<dc:creator><![CDATA[jensborch]]></dc:creator>
+		<guid isPermaLink="false">https://www.limfjordsjaegerne.dk/?page_id=348</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>For at blive medlem kontakt kassereren pr.<a href="mailto:kaser@limfjordsjaegerne.dk﻿"> mail</a> og oplys navn, adresse og fødselsår. Ekstraordinære medlemmer skal være medlem af en anden jagtforening under Dansk Jægerforbund.   Medlemsnummeret skal her også oplyses ved indmeldelse. Medlemsnummeret kan findes bag på "JÆGEREN".<br></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2>Kontingenter 2019</h2>
+<!-- /wp:heading -->
+
+<!-- wp:table -->
+<table class="wp-block-table"><tbody><tr><td>Ordinært medlemskab</td><td>928,- kr.</td></tr><tr><td>Seniormedlemskab (født før/i 1948)</td><td>627,- kr.</td></tr><tr><td>Juniormedlemskab (0 - 15 år)</td><td>128,- kr.</td></tr><tr><td>Ungdomsmedlemskab (under 26 år)</td><td>478,- kr</td></tr><tr><td>Husstandsmedlemskab</td><td>550,- kr.</td></tr><tr><td>Ekstraordinært medlemskab (uden "JÆGEREN" )</td><td>226,- kr.</td></tr><tr><td>Støttemedlemskab uden jagttegn</td><td>277,- kr.</td></tr><tr><td>Jagtkort til foreningens arealer</td><td>1250,- kr.</td></tr></tbody></table>
+<!-- /wp:table -->
+
+<!-- wp:paragraph -->
+<p><br></p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>348</wp:post_id>
+		<wp:post_date><![CDATA[2019-02-19 20:10:57]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2019-02-19 19:10:57]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[medlemskab]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
 	</item>
 	<item>
 		<title>Jægerhuset</title>
@@ -3366,6 +3297,98 @@ Denne e-mail er afsendt fra en kontakt formular på Limfjordsjægerne (https://w
 		</wp:postmeta>
 	</item>
 	<item>
+		<title>Hundetræning 3/3-2019</title>
+		<link>https://www.limfjordsjaegerne.dk/event/hundetraening-3-3/</link>
+		<pubDate>Thu, 21 Feb 2019 20:22:49 +0000</pubDate>
+		<dc:creator><![CDATA[jensborch]]></dc:creator>
+		<guid isPermaLink="false">https://www.limfjordsjaegerne.dk/?post_type=tribe_events&#038;p=376</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>376</wp:post_id>
+		<wp:post_date><![CDATA[2019-02-21 21:22:49]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2019-02-21 20:22:49]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[hundetraening-3-3]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[tribe_events]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="tribe_events_cat" nicename="hundetraening"><![CDATA[Hundetræning]]></category>
+		<category domain="post_tag" nicename="hundetraening"><![CDATA[Hundetræning]]></category>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_EventOrigin]]></wp:meta_key>
+			<wp:meta_value><![CDATA[events-calendar]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_tribe_modified_fields]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:21:{s:12:"_EventOrigin";d:1550782299;s:10:"_edit_last";d:1550782326;s:10:"post_title";d:1550784309;s:12:"post_content";d:1550784451;s:11:"post_status";d:1550784170;s:17:"_EventShowMapLink";d:1550782699;s:13:"_EventShowMap";d:1550782699;s:15:"_EventStartDate";d:1550784170;s:13:"_EventEndDate";d:1550784170;s:18:"_EventStartDateUTC";d:1550784170;s:16:"_EventEndDateUTC";d:1550784170;s:14:"_EventDuration";d:1550784170;s:20:"_EventCurrencySymbol";d:1550784451;s:22:"_EventCurrencyPosition";d:1550782699;s:10:"_EventCost";d:1550784451;s:9:"_EventURL";d:1550782699;s:14:"_EventTimezone";d:1550782699;s:18:"_EventTimezoneAbbr";d:1550782699;s:13:"_EventVenueID";d:1550782831;s:8:"post_tag";i:1550780600;s:16:"tribe_events_cat";i:1550780600;}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_EventShowMapLink]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_EventShowMap]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_EventStartDate]]></wp:meta_key>
+			<wp:meta_value><![CDATA[2019-03-03 10:00:00]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_EventEndDate]]></wp:meta_key>
+			<wp:meta_value><![CDATA[2019-03-03 12:00:00]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_EventStartDateUTC]]></wp:meta_key>
+			<wp:meta_value><![CDATA[2019-03-03 09:00:00]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_EventEndDateUTC]]></wp:meta_key>
+			<wp:meta_value><![CDATA[2019-03-03 11:00:00]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_EventDuration]]></wp:meta_key>
+			<wp:meta_value><![CDATA[7200]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_EventCurrencySymbol]]></wp:meta_key>
+			<wp:meta_value><![CDATA[kr.]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_EventCurrencyPosition]]></wp:meta_key>
+			<wp:meta_value><![CDATA[prefix]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_EventCost]]></wp:meta_key>
+			<wp:meta_value><![CDATA[50]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_EventURL]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_EventTimezone]]></wp:meta_key>
+			<wp:meta_value><![CDATA[Europe/Copenhagen]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_EventTimezoneAbbr]]></wp:meta_key>
+			<wp:meta_value><![CDATA[CET]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_EventVenueID]]></wp:meta_key>
+			<wp:meta_value><![CDATA[378]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
 		<title>Lars Nansen</title>
 		<link>https://www.limfjordsjaegerne.dk/sted/lars-nansen/</link>
 		<pubDate>Thu, 21 Feb 2019 19:59:37 +0000</pubDate>
@@ -3449,6 +3472,638 @@ Denne e-mail er afsendt fra en kontakt formular på Limfjordsjægerne (https://w
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_VenueStateProvince]]></wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Flugtskydning 30/4-2019</title>
+		<link>https://www.limfjordsjaegerne.dk/event/flugtskydning-30-4-2019/</link>
+		<pubDate>Thu, 21 Feb 2019 20:17:57 +0000</pubDate>
+		<dc:creator><![CDATA[jensborch]]></dc:creator>
+		<guid isPermaLink="false">https://www.limfjordsjaegerne.dk/?post_type=tribe_events&#038;p=381</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>381</wp:post_id>
+		<wp:post_date><![CDATA[2019-02-21 21:17:57]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2019-02-21 20:17:57]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[flugtskydning-30-4-2019]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[tribe_events]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="tribe_events_cat" nicename="flugtskydning"><![CDATA[Flugtskydning]]></category>
+		<category domain="post_tag" nicename="flugtskydning"><![CDATA[Flugtskydning]]></category>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_EventOrigin]]></wp:meta_key>
+			<wp:meta_value><![CDATA[events-calendar]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_tribe_modified_fields]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:21:{s:12:"_EventOrigin";d:1550783677;s:10:"_edit_last";d:1550783703;s:10:"post_title";d:1550783777;s:12:"post_content";d:1550783777;s:11:"post_status";d:1550783877;s:17:"_EventShowMapLink";d:1550783777;s:13:"_EventShowMap";d:1550783777;s:15:"_EventStartDate";d:1550783777;s:13:"_EventEndDate";d:1550783777;s:18:"_EventStartDateUTC";d:1550783777;s:16:"_EventEndDateUTC";d:1550783777;s:14:"_EventDuration";d:1550783777;s:20:"_EventCurrencySymbol";d:1550783777;s:22:"_EventCurrencyPosition";d:1550783777;s:10:"_EventCost";d:1550783777;s:9:"_EventURL";d:1550783777;s:14:"_EventTimezone";d:1550783777;s:18:"_EventTimezoneAbbr";d:1550783777;s:13:"_EventVenueID";d:1550783878;s:8:"post_tag";i:1550780688;s:16:"tribe_events_cat";i:1550780688;}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_EventShowMapLink]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_EventShowMap]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_EventStartDate]]></wp:meta_key>
+			<wp:meta_value><![CDATA[2019-04-30 17:00:00]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_EventEndDate]]></wp:meta_key>
+			<wp:meta_value><![CDATA[2019-04-30 21:00:00]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_EventStartDateUTC]]></wp:meta_key>
+			<wp:meta_value><![CDATA[2019-04-30 15:00:00]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_EventEndDateUTC]]></wp:meta_key>
+			<wp:meta_value><![CDATA[2019-04-30 19:00:00]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_EventDuration]]></wp:meta_key>
+			<wp:meta_value><![CDATA[14400]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_EventCurrencySymbol]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_EventCurrencyPosition]]></wp:meta_key>
+			<wp:meta_value><![CDATA[prefix]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_EventCost]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_EventURL]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_EventTimezone]]></wp:meta_key>
+			<wp:meta_value><![CDATA[Europe/Copenhagen]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_EventTimezoneAbbr]]></wp:meta_key>
+			<wp:meta_value><![CDATA[CEST]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_EventVenueID]]></wp:meta_key>
+			<wp:meta_value><![CDATA[383]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Aalborg Flugtskydningsforening</title>
+		<link>https://www.limfjordsjaegerne.dk/sted/aalborg-flugtskydningsforening/</link>
+		<pubDate>Thu, 21 Feb 2019 20:17:29 +0000</pubDate>
+		<dc:creator><![CDATA[jensborch]]></dc:creator>
+		<guid isPermaLink="false">https://www.limfjordsjaegerne.dk/?post_type=tribe_venue&#038;p=383</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>383</wp:post_id>
+		<wp:post_date><![CDATA[2019-02-21 21:17:29]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2019-02-21 20:17:29]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[aalborg-flugtskydningsforening]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[tribe_venue]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_VenueOrigin]]></wp:meta_key>
+			<wp:meta_value><![CDATA[events-calendar]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_tribe_modified_fields]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:17:{s:12:"_VenueOrigin";d:1550783790;s:10:"_edit_last";d:1550783800;s:10:"post_title";d:1550783811;s:11:"post_status";d:1550783849;s:17:"_EventShowMapLink";d:1550783849;s:13:"_EventShowMap";d:1550783849;s:17:"_VenueShowMapLink";d:1550783849;s:13:"_VenueShowMap";d:1550783849;s:13:"_VenueAddress";d:1550783849;s:10:"_VenueCity";d:1550783849;s:13:"_VenueCountry";d:1550783849;s:14:"_VenueProvince";d:1550783849;s:11:"_VenueState";d:1550783849;s:9:"_VenueZip";d:1550783849;s:11:"_VenuePhone";d:1550783849;s:9:"_VenueURL";d:1550783849;s:19:"_VenueStateProvince";d:1550783849;}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_EventShowMapLink]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_EventShowMap]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_VenueShowMapLink]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_VenueShowMap]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_VenueAddress]]></wp:meta_key>
+			<wp:meta_value><![CDATA[Gammel Hvorupvej 141]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_VenueCity]]></wp:meta_key>
+			<wp:meta_value><![CDATA[Nørresundby]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_VenueCountry]]></wp:meta_key>
+			<wp:meta_value><![CDATA[Danmark]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_VenueProvince]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_VenueState]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_VenueZip]]></wp:meta_key>
+			<wp:meta_value><![CDATA[9400]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_VenuePhone]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_VenueURL]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_VenueStateProvince]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Flugtskydning 14/5-2019</title>
+		<link>https://www.limfjordsjaegerne.dk/event/flugtskydning-14-5-2019/</link>
+		<pubDate>Thu, 21 Feb 2019 20:20:58 +0000</pubDate>
+		<dc:creator><![CDATA[jensborch]]></dc:creator>
+		<guid isPermaLink="false">https://www.limfjordsjaegerne.dk/?post_type=tribe_events&#038;p=385</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>385</wp:post_id>
+		<wp:post_date><![CDATA[2019-02-21 21:20:58]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2019-02-21 20:20:58]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[flugtskydning-14-5-2019]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[tribe_events]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="tribe_events_cat" nicename="flugtskydning"><![CDATA[Flugtskydning]]></category>
+		<category domain="post_tag" nicename="flugtskydning"><![CDATA[Flugtskydning]]></category>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_EventOrigin]]></wp:meta_key>
+			<wp:meta_value><![CDATA[events-calendar]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_tribe_modified_fields]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:20:{s:12:"_EventOrigin";d:1550783973;s:10:"_edit_last";d:1550783987;s:10:"post_title";d:1550783987;s:11:"post_status";d:1550784058;s:8:"post_tag";i:1550780458;s:16:"tribe_events_cat";i:1550780458;s:17:"_EventShowMapLink";d:1550784058;s:13:"_EventShowMap";d:1550784058;s:13:"_EventVenueID";d:1550784058;s:15:"_EventStartDate";d:1550784058;s:13:"_EventEndDate";d:1550784058;s:18:"_EventStartDateUTC";d:1550784058;s:16:"_EventEndDateUTC";d:1550784058;s:14:"_EventDuration";d:1550784058;s:20:"_EventCurrencySymbol";d:1550784058;s:22:"_EventCurrencyPosition";d:1550784058;s:10:"_EventCost";d:1550784058;s:9:"_EventURL";d:1550784058;s:14:"_EventTimezone";d:1550784058;s:18:"_EventTimezoneAbbr";d:1550784058;}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_EventShowMapLink]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_EventShowMap]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_EventVenueID]]></wp:meta_key>
+			<wp:meta_value><![CDATA[383]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_EventStartDate]]></wp:meta_key>
+			<wp:meta_value><![CDATA[2019-05-14 17:00:00]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_EventEndDate]]></wp:meta_key>
+			<wp:meta_value><![CDATA[2019-05-14 21:00:00]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_EventStartDateUTC]]></wp:meta_key>
+			<wp:meta_value><![CDATA[2019-05-14 15:00:00]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_EventEndDateUTC]]></wp:meta_key>
+			<wp:meta_value><![CDATA[2019-05-14 19:00:00]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_EventDuration]]></wp:meta_key>
+			<wp:meta_value><![CDATA[14400]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_EventCurrencySymbol]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_EventCurrencyPosition]]></wp:meta_key>
+			<wp:meta_value><![CDATA[prefix]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_EventCost]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_EventURL]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_EventTimezone]]></wp:meta_key>
+			<wp:meta_value><![CDATA[Europe/Copenhagen]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_EventTimezoneAbbr]]></wp:meta_key>
+			<wp:meta_value><![CDATA[CEST]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Hundetræning 17/3-2019</title>
+		<link>https://www.limfjordsjaegerne.dk/event/hundetraening-17-3-2019/</link>
+		<pubDate>Thu, 21 Feb 2019 20:26:23 +0000</pubDate>
+		<dc:creator><![CDATA[jensborch]]></dc:creator>
+		<guid isPermaLink="false">https://www.limfjordsjaegerne.dk/?post_type=tribe_events&#038;p=389</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>389</wp:post_id>
+		<wp:post_date><![CDATA[2019-02-21 21:26:23]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2019-02-21 20:26:23]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[hundetraening-17-3-2019]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[tribe_events]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="tribe_events_cat" nicename="hundetraening"><![CDATA[Hundetræning]]></category>
+		<category domain="post_tag" nicename="hundetraening"><![CDATA[Hundetræning]]></category>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_EventOrigin]]></wp:meta_key>
+			<wp:meta_value><![CDATA[events-calendar]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_tribe_modified_fields]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:19:{s:12:"_EventOrigin";d:1550784320;s:10:"_edit_last";d:1550784324;s:10:"post_title";d:1550784332;s:11:"post_status";d:1550784383;s:8:"post_tag";i:1550780783;s:16:"tribe_events_cat";i:1550780783;s:17:"_EventShowMapLink";d:1550784383;s:13:"_EventShowMap";d:1550784383;s:15:"_EventStartDate";d:1550784383;s:13:"_EventEndDate";d:1550784383;s:18:"_EventStartDateUTC";d:1550784383;s:16:"_EventEndDateUTC";d:1550784383;s:14:"_EventDuration";d:1550784383;s:20:"_EventCurrencySymbol";d:1550784514;s:22:"_EventCurrencyPosition";d:1550784383;s:10:"_EventCost";d:1550784514;s:9:"_EventURL";d:1550784383;s:14:"_EventTimezone";d:1550784383;s:18:"_EventTimezoneAbbr";d:1550784383;}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_EventShowMapLink]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_EventShowMap]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_EventStartDate]]></wp:meta_key>
+			<wp:meta_value><![CDATA[2019-03-17 10:00:00]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_EventEndDate]]></wp:meta_key>
+			<wp:meta_value><![CDATA[2019-03-17 12:00:00]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_EventStartDateUTC]]></wp:meta_key>
+			<wp:meta_value><![CDATA[2019-03-17 09:00:00]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_EventEndDateUTC]]></wp:meta_key>
+			<wp:meta_value><![CDATA[2019-03-17 11:00:00]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_EventDuration]]></wp:meta_key>
+			<wp:meta_value><![CDATA[7200]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_EventCurrencySymbol]]></wp:meta_key>
+			<wp:meta_value><![CDATA[kr.]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_EventCurrencyPosition]]></wp:meta_key>
+			<wp:meta_value><![CDATA[prefix]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_EventCost]]></wp:meta_key>
+			<wp:meta_value><![CDATA[50]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_EventURL]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_EventTimezone]]></wp:meta_key>
+			<wp:meta_value><![CDATA[Europe/Copenhagen]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_EventTimezoneAbbr]]></wp:meta_key>
+			<wp:meta_value><![CDATA[CET]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Hundetræning 31/3-2019</title>
+		<link>https://www.limfjordsjaegerne.dk/event/hundetraening-31-3-2019/</link>
+		<pubDate>Thu, 21 Feb 2019 20:29:38 +0000</pubDate>
+		<dc:creator><![CDATA[jensborch]]></dc:creator>
+		<guid isPermaLink="false">https://www.limfjordsjaegerne.dk/?post_type=tribe_events&#038;p=392</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>392</wp:post_id>
+		<wp:post_date><![CDATA[2019-02-21 21:29:38]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2019-02-21 20:29:38]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[hundetraening-31-3-2019]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[tribe_events]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="tribe_events_cat" nicename="hundetraening"><![CDATA[Hundetræning]]></category>
+		<category domain="post_tag" nicename="hundetraening"><![CDATA[Hundetræning]]></category>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_EventOrigin]]></wp:meta_key>
+			<wp:meta_value><![CDATA[events-calendar]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_tribe_modified_fields]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:20:{s:12:"_EventOrigin";d:1550784525;s:10:"_edit_last";d:1550784538;s:10:"post_title";d:1550784538;s:11:"post_status";d:1550784578;s:8:"post_tag";i:1550780978;s:16:"tribe_events_cat";i:1550780978;s:17:"_EventShowMapLink";d:1550784579;s:13:"_EventShowMap";d:1550784579;s:13:"_EventVenueID";d:1550784579;s:15:"_EventStartDate";d:1550784579;s:13:"_EventEndDate";d:1550784579;s:18:"_EventStartDateUTC";d:1550784579;s:16:"_EventEndDateUTC";d:1550784579;s:14:"_EventDuration";d:1550784579;s:20:"_EventCurrencySymbol";d:1550784579;s:22:"_EventCurrencyPosition";d:1550784579;s:10:"_EventCost";d:1550784579;s:9:"_EventURL";d:1550784579;s:14:"_EventTimezone";d:1550784579;s:18:"_EventTimezoneAbbr";d:1550784579;}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_EventShowMapLink]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_EventShowMap]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_EventVenueID]]></wp:meta_key>
+			<wp:meta_value><![CDATA[378]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_EventStartDate]]></wp:meta_key>
+			<wp:meta_value><![CDATA[2019-03-31 10:00:00]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_EventEndDate]]></wp:meta_key>
+			<wp:meta_value><![CDATA[2019-03-31 12:00:00]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_EventStartDateUTC]]></wp:meta_key>
+			<wp:meta_value><![CDATA[2019-03-31 08:00:00]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_EventEndDateUTC]]></wp:meta_key>
+			<wp:meta_value><![CDATA[2019-03-31 10:00:00]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_EventDuration]]></wp:meta_key>
+			<wp:meta_value><![CDATA[7200]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_EventCurrencySymbol]]></wp:meta_key>
+			<wp:meta_value><![CDATA[kr.]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_EventCurrencyPosition]]></wp:meta_key>
+			<wp:meta_value><![CDATA[prefix]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_EventCost]]></wp:meta_key>
+			<wp:meta_value><![CDATA[50]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_EventURL]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_EventTimezone]]></wp:meta_key>
+			<wp:meta_value><![CDATA[Europe/Copenhagen]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_EventTimezoneAbbr]]></wp:meta_key>
+			<wp:meta_value><![CDATA[CEST]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Hundetræning 14/4-2019</title>
+		<link>https://www.limfjordsjaegerne.dk/event/hundetraening-14-4-2019/</link>
+		<pubDate>Thu, 21 Feb 2019 20:31:30 +0000</pubDate>
+		<dc:creator><![CDATA[jensborch]]></dc:creator>
+		<guid isPermaLink="false">https://www.limfjordsjaegerne.dk/?post_type=tribe_events&#038;p=394</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>394</wp:post_id>
+		<wp:post_date><![CDATA[2019-02-21 21:31:30]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2019-02-21 20:31:30]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[hundetraening-14-4-2019]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[tribe_events]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="tribe_events_cat" nicename="hundetraening"><![CDATA[Hundetræning]]></category>
+		<category domain="post_tag" nicename="hundetraening"><![CDATA[Hundetræning]]></category>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_EventOrigin]]></wp:meta_key>
+			<wp:meta_value><![CDATA[events-calendar]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_tribe_modified_fields]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:20:{s:12:"_EventOrigin";d:1550784639;s:10:"_edit_last";d:1550784643;s:10:"post_title";d:1550784652;s:11:"post_status";d:1550784690;s:8:"post_tag";i:1550781090;s:16:"tribe_events_cat";i:1550781090;s:17:"_EventShowMapLink";d:1550784690;s:13:"_EventShowMap";d:1550784690;s:13:"_EventVenueID";d:1550784690;s:15:"_EventStartDate";d:1550784690;s:13:"_EventEndDate";d:1550784690;s:18:"_EventStartDateUTC";d:1550784690;s:16:"_EventEndDateUTC";d:1550784690;s:14:"_EventDuration";d:1550784690;s:20:"_EventCurrencySymbol";d:1550784690;s:22:"_EventCurrencyPosition";d:1550784690;s:10:"_EventCost";d:1550784690;s:9:"_EventURL";d:1550784690;s:14:"_EventTimezone";d:1550784690;s:18:"_EventTimezoneAbbr";d:1550784690;}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_EventShowMapLink]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_EventShowMap]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_EventVenueID]]></wp:meta_key>
+			<wp:meta_value><![CDATA[378]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_EventStartDate]]></wp:meta_key>
+			<wp:meta_value><![CDATA[2019-04-14 10:00:00]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_EventEndDate]]></wp:meta_key>
+			<wp:meta_value><![CDATA[2019-04-14 12:00:00]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_EventStartDateUTC]]></wp:meta_key>
+			<wp:meta_value><![CDATA[2019-04-14 08:00:00]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_EventEndDateUTC]]></wp:meta_key>
+			<wp:meta_value><![CDATA[2019-04-14 10:00:00]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_EventDuration]]></wp:meta_key>
+			<wp:meta_value><![CDATA[7200]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_EventCurrencySymbol]]></wp:meta_key>
+			<wp:meta_value><![CDATA[kr.]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_EventCurrencyPosition]]></wp:meta_key>
+			<wp:meta_value><![CDATA[prefix]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_EventCost]]></wp:meta_key>
+			<wp:meta_value><![CDATA[50]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_EventURL]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_EventTimezone]]></wp:meta_key>
+			<wp:meta_value><![CDATA[Europe/Copenhagen]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_EventTimezoneAbbr]]></wp:meta_key>
+			<wp:meta_value><![CDATA[CEST]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>25års jubilæum</title>
+		<link>https://www.limfjordsjaegerne.dk/event/25aars-jubilaeum/</link>
+		<pubDate>Thu, 21 Feb 2019 20:37:44 +0000</pubDate>
+		<dc:creator><![CDATA[jensborch]]></dc:creator>
+		<guid isPermaLink="false">https://www.limfjordsjaegerne.dk/?post_type=tribe_events&#038;p=396</guid>
+		<description></description>
+		<content:encoded><![CDATA[Limfjordsjægeren fylder 25 år, og det skal selvfølgelig fejres på passende uformel manér. Skriv allerede nu datoen i kalenderen. Flere informationer følgere senere.]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>396</wp:post_id>
+		<wp:post_date><![CDATA[2019-02-21 21:37:44]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2019-02-21 20:37:44]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[25aars-jubilaeum]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[tribe_events]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_EventOrigin]]></wp:meta_key>
+			<wp:meta_value><![CDATA[events-calendar]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_tribe_modified_fields]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:19:{s:12:"_EventOrigin";d:1550784716;s:10:"_edit_last";d:1550784721;s:10:"post_title";d:1550784933;s:11:"post_status";d:1550785064;s:12:"post_content";d:1550785064;s:17:"_EventShowMapLink";d:1550784933;s:13:"_EventShowMap";d:1550784933;s:15:"_EventStartDate";d:1550784933;s:13:"_EventEndDate";d:1550784933;s:18:"_EventStartDateUTC";d:1550784933;s:16:"_EventEndDateUTC";d:1550784933;s:14:"_EventDuration";d:1550784933;s:20:"_EventCurrencySymbol";d:1550784933;s:22:"_EventCurrencyPosition";d:1550784933;s:10:"_EventCost";d:1550784933;s:9:"_EventURL";d:1550784933;s:14:"_EventTimezone";d:1550784933;s:18:"_EventTimezoneAbbr";d:1550784933;s:13:"_EventVenueID";d:1550784947;}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_EventShowMapLink]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_EventShowMap]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_EventStartDate]]></wp:meta_key>
+			<wp:meta_value><![CDATA[2019-06-01 13:00:00]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_EventEndDate]]></wp:meta_key>
+			<wp:meta_value><![CDATA[2019-06-01 22:00:00]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_EventStartDateUTC]]></wp:meta_key>
+			<wp:meta_value><![CDATA[2019-06-01 11:00:00]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_EventEndDateUTC]]></wp:meta_key>
+			<wp:meta_value><![CDATA[2019-06-01 20:00:00]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_EventDuration]]></wp:meta_key>
+			<wp:meta_value><![CDATA[32400]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_EventCurrencySymbol]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_EventCurrencyPosition]]></wp:meta_key>
+			<wp:meta_value><![CDATA[prefix]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_EventCost]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_EventURL]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_EventTimezone]]></wp:meta_key>
+			<wp:meta_value><![CDATA[Europe/Copenhagen]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_EventTimezoneAbbr]]></wp:meta_key>
+			<wp:meta_value><![CDATA[CEST]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_EventVenueID]]></wp:meta_key>
+			<wp:meta_value><![CDATA[328]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 </channel>
